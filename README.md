@@ -1,16 +1,13 @@
-# jetbrains-rider-new-ui README
+# Jetbrains Rider New UI
 
-## Working with Markdown
+JetBrains Rider New UI theme for Visual Studio Code
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Recommended Visual Studio Code settings
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+```
+"editor.fontSize": 13,
+"editor.lineHeight": 22,
+"editor.fontFamily": "JetBrains Mono",
+"editor.bracketPairColorization.enabled": false,
+"editor.rulers": [120],
+```
