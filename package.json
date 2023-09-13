@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "JetBrains Rider New UI",
+        "label": "JetBrains Rider New UI Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/JetBrains Rider New UI-color-theme.json"
+        "path": "./themes/JetBrains Rider New UI-color-theme-dark.json"
       }
     ]
   }
