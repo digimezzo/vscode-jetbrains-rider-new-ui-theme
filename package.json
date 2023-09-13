@@ -1,0 +1,21 @@
+{
+  "name": "jetbrains-rider-new-ui",
+  "displayName": "JetBrains Rider New UI",
+  "description": "JetBrains Rider New UI theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JetBrains Rider New UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JetBrains Rider New UI-color-theme.json"
+      }
+    ]
+  }
+}
