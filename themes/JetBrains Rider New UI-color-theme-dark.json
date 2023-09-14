@@ -2294,7 +2294,7 @@
       ],
       "settings": {
         "foreground": "#6C95EB",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -2315,10 +2315,18 @@
     },
     {
       "scope": [
+        "storage.type.function.arrow",
+      ],
+      "settings": {
+        "foreground": "#39cc8f",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "comment",
         "comment.block",
         "comment.block.documentation",
-        "comment.line",
         "constant",
         "constant.character",
         "constant.character.escape",
