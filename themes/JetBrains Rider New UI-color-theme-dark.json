@@ -1378,12 +1378,6 @@
       }
     },
     {
-      "scope": "support.type.property-name",
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
       "scope": "support.constant.property-value",
       "settings": {
         "foreground": "#bdbdbd"
@@ -1672,15 +1666,9 @@
       }
     },
     {
-      "scope": "support.type.property-name.json",
+      "scope": ["meta.property-name", "support.type.property-name"],
       "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": "support.type.property-name.json punctuation",
-      "settings": {
-        "foreground": "#bdbdbd"
+        "foreground": "#66c3cc"
       }
     },
     {
@@ -2314,9 +2302,35 @@
       }
     },
     {
-      "scope": [
-        "storage.type.function.arrow",
-      ],
+      "scope": "constant.numeric.float.yaml",
+      "settings": {
+        "foreground": "#bdbdbd",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "constant.language.boolean.yaml",
+      "settings": {
+        "foreground": "#bdbdbd",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "string.unquoted.plain.out.yaml",
+      "settings": {
+        "foreground": "#bdbdbd",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "constant.numeric.integer.yaml",
+      "settings": {
+        "foreground": "#bdbdbd",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["storage.type.function.arrow"],
       "settings": {
         "foreground": "#39cc8f",
         "fontStyle": ""
