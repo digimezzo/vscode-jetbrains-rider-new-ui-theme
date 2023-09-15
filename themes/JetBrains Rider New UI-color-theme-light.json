@@ -99,7 +99,7 @@
     "terminal.ansiWhite": "#e4e4e4",
     "terminal.ansiYellow": "#af8700",
     "terminal.background": "#f7f7f7",
-    "terminal.foreground": "#000000",
+    "terminal.foreground": "#383838",
     "titleBar.activeBackground": "#262626",
     "titleBar.activeForeground": "#ececec",
     "titleBar.border": "#ececec",

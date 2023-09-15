@@ -241,7 +241,7 @@
     "terminal.ansiWhite": "#e5e5e5",
     "terminal.ansiYellow": "#e5e510",
     "terminal.border": "#2b2b2b",
-    "terminal.foreground": "#cccccc",
+    "terminal.foreground": "#dfdfdf",
     "terminal.selectionBackground": "#4891ff41",
     "terminalCursor.background": "#0087ff",
     "terminalCursor.foreground": "#ffffff",
