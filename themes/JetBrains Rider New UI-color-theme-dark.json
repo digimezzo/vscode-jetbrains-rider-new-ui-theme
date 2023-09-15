@@ -1432,15 +1432,29 @@
       }
     },
     {
+      "scope": [
+        "meta.tag",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html"
+      ],
+      "settings": {
+        "foreground": "#C191FF"
+      }
+    },
+    {
       "scope": "entity.name.tag",
       "settings": {
         "foreground": "#C191FF"
       }
     },
     {
-      "scope": "entity.other.attribute-name",
+      "scope": [
+        "meta.tag entity.other.attribute-name",
+        "entity.other.attribute-name.html"
+      ],
       "settings": {
-        "foreground": "#85C46C"
+        "foreground": "#85c46c"
       }
     },
     {

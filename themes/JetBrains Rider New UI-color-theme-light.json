@@ -928,7 +928,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#2E2A2E"
+        "foreground": "#6B2FBA"
       }
     },
     {
@@ -944,7 +944,7 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#0058D7"
+        "foreground": "#248700"
       }
     },
     {
