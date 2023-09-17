@@ -1324,10 +1324,60 @@
         "fontStyle": ""
       }
     },
+
     {
-      "scope": ["storage.type.function.arrow"],
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#6B2FBA",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["meta.paragraph.markdown"],
+      "settings": {
+        "foreground": "#202020",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.heading.markdown",
+      "settings": {
+        "foreground": "#0f54d6",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "entity.name.section.markdown",
+      "settings": {
+        "foreground": "#0093a1",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "string.other.link.title.markdown",
+      "settings": {
+        "foreground": "#0f54d6",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "markup.underline.link.markdown",
       "settings": {
         "foreground": "#00855f",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.metadata.markdown",
+      "settings": {
+        "foreground": "#8c6c41",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.link.title.begin.markdown",
+      "settings": {
+        "foreground": "#0f54d6",
         "fontStyle": ""
       }
     },

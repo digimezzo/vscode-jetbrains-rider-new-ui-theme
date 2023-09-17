@@ -1520,85 +1520,9 @@
       }
     },
     {
-      "scope": "entity.name.section.markdown",
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": "punctuation.definition.heading.markdown",
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": "punctuation.definition.list.begin.markdown",
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
       "scope": "markup.heading.setext",
       "settings": {
         "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": "punctuation.definition.bold.markdown",
-      "settings": {
-        "foreground": "#ED94C0"
-      }
-    },
-    {
-      "scope": "markup.inline.raw.markdown",
-      "settings": {
-        "foreground": "#C9A26D"
-      }
-    },
-    {
-      "scope": "markup.inline.raw.string.markdown",
-      "settings": {
-        "foreground": "#C9A26D"
-      }
-    },
-    {
-      "scope": "punctuation.definition.list.markdown",
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": [
-        "punctuation.definition.string.begin.markdown",
-        "punctuation.definition.string.end.markdown",
-        "punctuation.definition.metadata.markdown"
-      ],
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": ["beginning.punctuation.definition.list.markdown"],
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": "punctuation.definition.metadata.markdown",
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
-      "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
-      "settings": {
-        "foreground": "#6C95EB"
-      }
-    },
-    {
-      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
-      "settings": {
-        "foreground": "#39CC8F"
       }
     },
     {
@@ -2165,18 +2089,6 @@
       }
     },
     {
-      "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
-      "settings": {
-        "foreground": "#C9A26D"
-      }
-    },
-    {
-      "scope": ["beginning.punctuation.definition.list.markdown.xi"],
-      "settings": {
-        "foreground": "#85C46C"
-      }
-    },
-    {
       "scope": ["constant.character.xi"],
       "settings": {
         "foreground": "#39CC8F"
@@ -2217,16 +2129,6 @@
       }
     },
     {
-      "scope": [
-        "entity.name.label.cs",
-        "markup.heading.setext.1.markdown",
-        "markup.heading.setext.2.markdown"
-      ],
-      "settings": {
-        "foreground": "#bdbdbd"
-      }
-    },
-    {
       "scope": [" meta.brace.square"],
       "settings": {
         "foreground": "#bdbdbd"
@@ -2237,12 +2139,6 @@
       "settings": {
         "foreground": "#85C46C",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "markup.quote.markdown",
-      "settings": {
-        "foreground": "#85C46C"
       }
     },
     {
@@ -2272,12 +2168,6 @@
     },
     {
       "scope": "keyword.control.import.python,keyword.control.flow.python",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "markup.italic.markdown",
       "settings": {
         "fontStyle": "italic"
       }
@@ -2347,6 +2237,55 @@
       "scope": ["storage.type.function.arrow"],
       "settings": {
         "foreground": "#39cc8f",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["meta.paragraph.markdown"],
+      "settings": {
+        "foreground": "#d0d0d0",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.heading.markdown",
+      "settings": {
+        "foreground": "#6c95eb",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "entity.name.section.markdown",
+      "settings": {
+        "foreground": "#66c3cc",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "string.other.link.title.markdown",
+      "settings": {
+        "foreground": "#6c95eb",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "markup.underline.link.markdown",
+      "settings": {
+        "foreground": "#66c3cc",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.metadata.markdown",
+      "settings": {
+        "foreground": "#c8a26d",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.link.title.begin.markdown",
+      "settings": {
+        "foreground": "#6c95eb",
         "fontStyle": ""
       }
     },
