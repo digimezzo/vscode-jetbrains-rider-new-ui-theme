@@ -20,6 +20,11 @@
         "label": "JetBrains Rider New UI Light",
         "uiTheme": "vs",
         "path": "./themes/JetBrains Rider New UI-color-theme-light.json"
+      },
+      {
+        "label": "JetBrains Rider New UI Lighter",
+        "uiTheme": "vs",
+        "path": "./themes/JetBrains Rider New UI-color-theme-lighter.json"
       }
     ]
   }
