@@ -1,11 +1,35 @@
 {
-  "name": "jetbrains-rider-new-ui",
-  "displayName": "JetBrains Rider New UI",
+  "name": "jetbrains-rider-new-ui-theme",
+  "displayName": "JetBrains Rider New UI theme",
   "description": "JetBrains Rider New UI theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "1.0.3",
+  "publisher": "Digimezzo",
+  "icon": "images/rider_logo.png",
   "engines": {
-    "vscode": "^1.82.0"
+    "vscode": "^1.12.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digimezzo/vscode-jetbrains-rider-new-ui-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "digimezzo",
+    "jetbrains",
+    "jetbrains theme",
+    "jetbrains light theme",
+    "jetbrains dark theme",
+    "rider",
+    "rider theme",
+    "rider light theme",
+    "rider dark theme",
+    "rider new ui",
+    "rider new ui theme",
+    "jetbrains rider new ui",
+    "jetbrains rider new ui theme"
+  ],
   "categories": [
     "Themes"
   ],

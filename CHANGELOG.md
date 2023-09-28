@@ -1,9 +1,19 @@
-# Change Log
+## 1.0.3 (2023-09-28)
 
-All notable changes to the "jetbrains-rider-new-ui" extension will be documented in this file.
+- Fixed vscode version compatibility
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.2 (2023-09-28)
 
-## [Unreleased]
+- Added some keywords
 
-- Initial release
+## 1.0.1 (2023-09-28)
+
+- Added "theme" to name and description
+- Added icon
+
+## 1.0.0 (2023-09-28)
+
+- First release
+- Light theme
+- Lighter theme
+- Dark theme
