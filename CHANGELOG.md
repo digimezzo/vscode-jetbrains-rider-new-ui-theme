@@ -1,3 +1,7 @@
+## 1.0.4 (2023-09-29)
+
+- Updated README.md
+
 ## 1.0.3 (2023-09-28)
 
 - Fixed vscode version compatibility
