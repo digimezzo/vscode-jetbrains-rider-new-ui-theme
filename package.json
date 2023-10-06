@@ -2,7 +2,7 @@
   "name": "jetbrains-rider-new-ui-theme",
   "displayName": "JetBrains Rider New UI theme",
   "description": "JetBrains Rider New UI theme for Visual Studio Code",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "Digimezzo",
   "icon": "images/rider_logo.png",
   "engines": {
