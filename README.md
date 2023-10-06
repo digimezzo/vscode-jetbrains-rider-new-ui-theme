@@ -15,3 +15,7 @@ This extension is available for free in the Visual Studio Code [Marketplace](htt
 "editor.bracketPairColorization.enabled": false,
 "editor.rulers": [120],
 ```
+
+## Recommended icon theme
+
+JetBrains Icon Theme, available in the the Visual Studio Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme)

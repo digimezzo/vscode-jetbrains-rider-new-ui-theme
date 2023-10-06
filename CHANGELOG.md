@@ -1,3 +1,8 @@
+## 1.0.5 (2023-10-06)
+
+- Tweaked status bar debugging colors
+- Updated README.md
+
 ## 1.0.4 (2023-09-29)
 
 - Updated README.md
