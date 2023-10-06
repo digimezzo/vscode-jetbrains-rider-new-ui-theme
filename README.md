@@ -1,6 +1,22 @@
-# Jetbrains Rider New UI
+# JetBrains Rider New UI
 
-JetBrains Rider New UI theme for Visual Studio Code
+JetBrains Rider New UI theme for Visual Studio Code. There are 3 color variants:
+
+- Light
+- Lighter
+- Dark
+
+## Light
+
+![Light](Light.png)
+
+## Lighter
+
+![Lighter](Lighter.png)
+
+## Dark
+
+![Dark](Dark.png)
 
 ## Installing
 

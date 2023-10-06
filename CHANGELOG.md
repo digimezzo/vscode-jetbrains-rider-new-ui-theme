@@ -1,3 +1,7 @@
+## 1.0.6 (2023-10-06)
+
+- Added screenshots
+
 ## 1.0.5 (2023-10-06)
 
 - Tweaked status bar debugging colors
